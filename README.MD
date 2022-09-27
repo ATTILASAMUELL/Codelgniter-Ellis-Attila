@@ -7,7 +7,7 @@ Php 5.6+
 
 ## Como rodar
 - Fazer um git clone ou Download Zip
-  - `git clone https://github.com/ATTILASAMUELL/Codelgniter-Ellis-Attila.git`
+  - `git clone git@github.com:ATTILASAMUELL/Codelgniter-Ellis-Attila.git`
 
 - Configurar .htaccess, que fica dentro da pasta application e criar um .htaccess na raiz do projeto.
 
@@ -25,4 +25,7 @@ Php 5.6+
 
 - Importar o banco de dados que está dentro da pasta banco-de-dados para algum administrador de SQL/MySQL, pode ser o 'phpmyadmin'
   - `importar servicos.sql`
+
+#Imagem da aplicação
+![WhatsApp Image 2022-09-26 at 21 08 30](https://user-images.githubusercontent.com/76443540/192402250-eece02a1-324e-460e-a077-2984d6a6f299.jpeg)
 
